@@ -1,0 +1,284 @@
+starting game: snapshot took 0.0 seconds
+play in progress-unknown has ball: snapshot took 0.7357347011566162 seconds
+play in progress-unknown has ball: snapshot took 0.407346248626709 seconds
+play in progress-unknown has ball: snapshot took 0.40837860107421875 seconds
+play in progress-unknown has ball: snapshot took 0.4233818054199219 seconds
+play in progress-unknown has ball: snapshot took 0.42168521881103516 seconds
+play in progress-unknown has ball: snapshot took 0.40197134017944336 seconds
+play in progress-unknown has ball: snapshot took 0.42510485649108887 seconds
+play in progress-unknown has ball: snapshot took 0.4529116153717041 seconds
+play in progress-unknown has ball: snapshot took 0.48227739334106445 seconds
+play in progress-unknown has ball: snapshot took 0.44494080543518066 seconds
+play in progress-unknown has ball: snapshot took 0.43583011627197266 seconds
+play in progress-unknown has ball: snapshot took 0.5781583786010742 seconds
+play in progress-unknown has ball: snapshot took 0.6309731006622314 seconds
+play in progress-unknown has ball: snapshot took 0.46974992752075195 seconds
+play in progress-unknown has ball: snapshot took 0.4576895236968994 seconds
+play in progress-unknown has ball: snapshot took 0.4089779853820801 seconds
+play in progress-unknown has ball: snapshot took 0.4312922954559326 seconds
+play in progress-unknown has ball: snapshot took 0.47015380859375 seconds
+play in progress-unknown has ball: snapshot took 0.4671599864959717 seconds
+play in progress-unknown has ball: snapshot took 0.4375951290130615 seconds
+play in progress-unknown has ball: snapshot took 0.4594259262084961 seconds
+play in progress-unknown has ball: snapshot took 0.5252361297607422 seconds
+play in progress-unknown has ball: snapshot took 0.4604983329772949 seconds
+play in progress-unknown has ball: snapshot took 0.43106818199157715 seconds
+play in progress-unknown has ball: snapshot took 0.5246174335479736 seconds
+play in progress-unknown has ball: snapshot took 0.44071435928344727 seconds
+play in progress-unknown has ball: snapshot took 0.43785548210144043 seconds
+play in progress-unknown has ball: snapshot took 0.4713292121887207 seconds
+play in progress-unknown has ball: snapshot took 0.42432069778442383 seconds
+play in progress-unknown has ball: snapshot took 0.48563194274902344 seconds
+play in progress-unknown has ball: snapshot took 0.5284359455108643 seconds
+play in progress-unknown has ball: snapshot took 0.4410731792449951 seconds
+play in progress-unknown has ball: snapshot took 0.4684476852416992 seconds
+select play-unknown has ball: snapshot took 0.5543158054351807 seconds
+select play-unknown has ball: snapshot took 0.5283572673797607 seconds
+select play-unknown has ball: snapshot took 0.4473397731781006 seconds
+play in progress-unknown has ball: snapshot took 0.4101138114929199 seconds
+play in progress-unknown has ball: snapshot took 0.4135630130767822 seconds
+play in progress-unknown has ball: snapshot took 0.441417932510376 seconds
+play in progress-unknown has ball: snapshot took 0.5118842124938965 seconds
+play in progress-unknown has ball: snapshot took 0.4579005241394043 seconds
+play in progress-unknown has ball: snapshot took 0.4399526119232178 seconds
+play in progress-unknown has ball: snapshot took 0.5160064697265625 seconds
+play in progress-unknown has ball: snapshot took 0.542076587677002 seconds
+play in progress-unknown has ball: snapshot took 0.47225499153137207 seconds
+play in progress-unknown has ball: snapshot took 0.45002222061157227 seconds
+play in progress-unknown has ball: snapshot took 0.46524906158447266 seconds
+play in progress-unknown has ball: snapshot took 0.5867600440979004 seconds
+play in progress-unknown has ball: snapshot took 0.43572115898132324 seconds
+play in progress-unknown has ball: snapshot took 0.45917654037475586 seconds
+play in progress-unknown has ball: snapshot took 0.4515070915222168 seconds
+play in progress-unknown has ball: snapshot took 0.46297574043273926 seconds
+play in progress-unknown has ball: snapshot took 0.5220983028411865 seconds
+play in progress-unknown has ball: snapshot took 0.5262699127197266 seconds
+play in progress-unknown has ball: snapshot took 0.45131731033325195 seconds
+select play-unknown has ball: snapshot took 0.5503528118133545 seconds
+select play-P1 has ball: snapshot took 0.5608737468719482 seconds
+select play-P1 has ball: snapshot took 0.5606808662414551 seconds
+select play-P1 has ball: snapshot took 0.5547873973846436 seconds
+select play-P1 has ball: snapshot took 0.5467088222503662 seconds
+select play-P1 has ball: snapshot took 0.5750992298126221 seconds
+select play-P1 has ball: snapshot took 0.539207935333252 seconds
+select play-P1 has ball: snapshot took 0.5610828399658203 seconds
+select play-P1 has ball: snapshot took 0.5588970184326172 seconds
+select play-P1 has ball: snapshot took 0.5443847179412842 seconds
+select play-P1 has ball: snapshot took 0.5599977970123291 seconds
+select play-P1 has ball: snapshot took 0.5510749816894531 seconds
+select play-P1 has ball: snapshot took 0.5508267879486084 seconds
+select play-P1 has ball: snapshot took 0.5436015129089355 seconds
+select play-P1 has ball: snapshot took 0.5620365142822266 seconds
+select play-P1 has ball: snapshot took 0.6625628471374512 seconds
+select play-P1 has ball: snapshot took 0.5557761192321777 seconds
+select play-P1 has ball: snapshot took 0.6510791778564453 seconds
+select play-P1 has ball: snapshot took 0.5536046028137207 seconds
+select play-P1 has ball: snapshot took 0.5527384281158447 seconds
+select play-P1 has ball: snapshot took 0.5609025955200195 seconds
+select play-P1 has ball: snapshot took 0.5457801818847656 seconds
+select play-P1 has ball: snapshot took 0.6174478530883789 seconds
+select play-P1 has ball: snapshot took 0.5697081089019775 seconds
+select play-P1 has ball: snapshot took 0.5514020919799805 seconds
+select play-P1 has ball: snapshot took 0.5550174713134766 seconds
+select play-P1 has ball: snapshot took 0.5450589656829834 seconds
+select play-P1 has ball: snapshot took 0.586378812789917 seconds
+select play-P1 has ball: snapshot took 0.5295970439910889 seconds
+play in progress-P1 has ball: snapshot took 0.42338991165161133 seconds
+play in progress-P1 has ball: snapshot took 0.46027684211730957 seconds
+play in progress-P1 has ball: snapshot took 0.4564530849456787 seconds
+play in progress-P1 has ball: snapshot took 0.5372140407562256 seconds
+play in progress-P1 has ball: snapshot took 0.4672536849975586 seconds
+play in progress-P1 has ball: snapshot took 0.47741127014160156 seconds
+play in progress-P1 has ball: snapshot took 0.46749234199523926 seconds
+play in progress-P1 has ball: snapshot took 0.4599020481109619 seconds
+play in progress-P1 has ball: snapshot took 0.4657168388366699 seconds
+play in progress-P1 has ball: snapshot took 0.5030364990234375 seconds
+play in progress-P1 has ball: snapshot took 0.4923703670501709 seconds
+play in progress-P1 has ball: snapshot took 0.5336329936981201 seconds
+play in progress-P1 has ball: snapshot took 0.4130563735961914 seconds
+play in progress-P1 has ball: snapshot took 0.4807119369506836 seconds
+select play-P1 has ball: snapshot took 0.5366227626800537 seconds
+select play-P1 has ball: snapshot took 0.5865957736968994 seconds
+play in progress-P1 has ball: snapshot took 0.4743216037750244 seconds
+play in progress-P1 has ball: snapshot took 0.40619921684265137 seconds
+play in progress-P1 has ball: snapshot took 0.4311192035675049 seconds
+play in progress-P1 has ball: snapshot took 0.4277966022491455 seconds
+play in progress-P1 has ball: snapshot took 0.44060444831848145 seconds
+play in progress-P1 has ball: snapshot took 0.488785982131958 seconds
+play in progress-P1 has ball: snapshot took 0.5430355072021484 seconds
+play in progress-P1 has ball: snapshot took 0.4560227394104004 seconds
+play in progress-P1 has ball: snapshot took 0.5014514923095703 seconds
+play in progress-P1 has ball: snapshot took 0.5264651775360107 seconds
+play in progress-P1 has ball: snapshot took 0.4983351230621338 seconds
+play in progress-P1 has ball: snapshot took 0.4632985591888428 seconds
+play in progress-P1 has ball: snapshot took 0.5267460346221924 seconds
+play in progress-P1 has ball: snapshot took 0.4797651767730713 seconds
+play in progress-P1 has ball: snapshot took 0.42408108711242676 seconds
+play in progress-P1 has ball: snapshot took 0.4279329776763916 seconds
+play in progress-P1 has ball: snapshot took 0.4793405532836914 seconds
+play in progress-P1 has ball: snapshot took 0.4887270927429199 seconds
+play in progress-P1 has ball: snapshot took 0.40320658683776855 seconds
+play in progress-P1 has ball: snapshot took 0.4641454219818115 seconds
+play in progress-P1 has ball: snapshot took 0.4233067035675049 seconds
+play in progress-P1 has ball: snapshot took 0.4221010208129883 seconds
+play in progress-P1 has ball: snapshot took 0.4225795269012451 seconds
+play in progress-P1 has ball: snapshot took 0.40114831924438477 seconds
+play in progress-P1 has ball: snapshot took 0.46291303634643555 seconds
+play in progress-P1 has ball: snapshot took 0.5069398880004883 seconds
+play in progress-P1 has ball: snapshot took 0.43021106719970703 seconds
+select play-P2 has ball: snapshot took 0.5735809803009033 seconds
+select play-P2 has ball: snapshot took 0.6128108501434326 seconds
+select play-P2 has ball: snapshot took 0.5866339206695557 seconds
+select play-P2 has ball: snapshot took 0.5995848178863525 seconds
+select play-P2 has ball: snapshot took 0.5722887516021729 seconds
+select play-P2 has ball: snapshot took 0.6651771068572998 seconds
+select play-P2 has ball: snapshot took 0.5895211696624756 seconds
+select play-P2 has ball: snapshot took 0.5829670429229736 seconds
+select play-P2 has ball: snapshot took 0.5740292072296143 seconds
+select play-P2 has ball: snapshot took 0.5848250389099121 seconds
+select play-P2 has ball: snapshot took 0.61824631690979 seconds
+select play-P2 has ball: snapshot took 0.5800662040710449 seconds
+select play-P2 has ball: snapshot took 0.5879056453704834 seconds
+select play-P2 has ball: snapshot took 0.5884511470794678 seconds
+select play-P2 has ball: snapshot took 0.6241657733917236 seconds
+select play-P2 has ball: snapshot took 0.46125030517578125 seconds
+play in progress-P2 has ball: snapshot took 0.41309189796447754 seconds
+play in progress-P2 has ball: snapshot took 0.5191206932067871 seconds
+play in progress-P2 has ball: snapshot took 0.42243242263793945 seconds
+play in progress-P2 has ball: snapshot took 0.4919254779815674 seconds
+play in progress-P2 has ball: snapshot took 0.5059032440185547 seconds
+play in progress-P2 has ball: snapshot took 0.41915369033813477 seconds
+play in progress-P2 has ball: snapshot took 0.5642886161804199 seconds
+play in progress-P2 has ball: snapshot took 0.425274133682251 seconds
+play in progress-P2 has ball: snapshot took 0.5197064876556396 seconds
+play in progress-P2 has ball: snapshot took 0.5749919414520264 seconds
+play in progress-P2 has ball: snapshot took 0.4925696849822998 seconds
+play in progress-P2 has ball: snapshot took 0.46358752250671387 seconds
+play in progress-P2 has ball: snapshot took 0.6062560081481934 seconds
+play in progress-P2 has ball: snapshot took 0.4818871021270752 seconds
+play in progress-P2 has ball: snapshot took 0.4631667137145996 seconds
+play in progress-P2 has ball: snapshot took 0.5450155735015869 seconds
+select play-P2 has ball: snapshot took 0.5668947696685791 seconds
+select play-P2 has ball: snapshot took 0.636953592300415 seconds
+select play-P2 has ball: snapshot took 0.6321768760681152 seconds
+play in progress-P2 has ball: snapshot took 0.4293985366821289 seconds
+play in progress-P2 has ball: snapshot took 0.4425387382507324 seconds
+play in progress-P2 has ball: snapshot took 0.45272111892700195 seconds
+play in progress-P2 has ball: snapshot took 0.4111173152923584 seconds
+play in progress-P2 has ball: snapshot took 0.5293636322021484 seconds
+play in progress-P2 has ball: snapshot took 0.5340197086334229 seconds
+play in progress-P2 has ball: snapshot took 0.4720439910888672 seconds
+play in progress-P2 has ball: snapshot took 0.4925065040588379 seconds
+play in progress-P2 has ball: snapshot took 0.44260597229003906 seconds
+play in progress-P2 has ball: snapshot took 0.6418790817260742 seconds
+play in progress-P2 has ball: snapshot took 0.5586202144622803 seconds
+play in progress-P2 has ball: snapshot took 0.5048961639404297 seconds
+play in progress-P2 has ball: snapshot took 0.5809133052825928 seconds
+play in progress-P2 has ball: snapshot took 0.5498011112213135 seconds
+play in progress-P2 has ball: snapshot took 0.453169584274292 seconds
+play in progress-P2 has ball: snapshot took 0.44737792015075684 seconds
+play in progress-P2 has ball: snapshot took 0.5114738941192627 seconds
+play in progress-P2 has ball: snapshot took 0.5709950923919678 seconds
+play in progress-P2 has ball: snapshot took 0.4160628318786621 seconds
+play in progress-P2 has ball: snapshot took 0.46720337867736816 seconds
+play in progress-P2 has ball: snapshot took 0.42782044410705566 seconds
+play in progress-P2 has ball: snapshot took 0.4142117500305176 seconds
+play in progress-P2 has ball: snapshot took 0.41776180267333984 seconds
+play in progress-P2 has ball: snapshot took 0.4201681613922119 seconds
+play in progress-P2 has ball: snapshot took 0.42501401901245117 seconds
+play in progress-P2 has ball: snapshot took 0.41060328483581543 seconds
+play in progress-P2 has ball: snapshot took 0.4294605255126953 seconds
+select play-P2 has ball: snapshot took 0.5400264263153076 seconds
+select play-P2 has ball: snapshot took 0.5519375801086426 seconds
+select play-P2 has ball: snapshot took 0.6135668754577637 seconds
+play in progress-P2 has ball: snapshot took 0.4268035888671875 seconds
+play in progress-P2 has ball: snapshot took 0.4215569496154785 seconds
+play in progress-P2 has ball: snapshot took 0.4627211093902588 seconds
+play in progress-P2 has ball: snapshot took 0.44891858100891113 seconds
+play in progress-P2 has ball: snapshot took 0.5448610782623291 seconds
+play in progress-P2 has ball: snapshot took 0.500011682510376 seconds
+play in progress-P2 has ball: snapshot took 0.48484110832214355 seconds
+play in progress-P2 has ball: snapshot took 0.485217809677124 seconds
+play in progress-P2 has ball: snapshot took 0.44102978706359863 seconds
+play in progress-P2 has ball: snapshot took 0.455399751663208 seconds
+play in progress-P2 has ball: snapshot took 0.5660707950592041 seconds
+play in progress-P2 has ball: snapshot took 0.44231462478637695 seconds
+play in progress-P2 has ball: snapshot took 0.4267003536224365 seconds
+play in progress-P2 has ball: snapshot took 0.5571150779724121 seconds
+play in progress-P2 has ball: snapshot took 0.48520636558532715 seconds
+play in progress-P2 has ball: snapshot took 0.5886640548706055 seconds
+play in progress-P2 has ball: snapshot took 0.4382927417755127 seconds
+play in progress-P2 has ball: snapshot took 0.45091772079467773 seconds
+play in progress-P2 has ball: snapshot took 0.5719203948974609 seconds
+play in progress-P2 has ball: snapshot took 0.44260478019714355 seconds
+play in progress-P2 has ball: snapshot took 0.432513952255249 seconds
+play in progress-P2 has ball: snapshot took 0.5302095413208008 seconds
+play in progress-P2 has ball: snapshot took 0.4266180992126465 seconds
+play in progress-P2 has ball: snapshot took 0.47994184494018555 seconds
+play in progress-P2 has ball: snapshot took 0.6290543079376221 seconds
+play in progress-P2 has ball: snapshot took 0.4205944538116455 seconds
+play in progress-P2 has ball: snapshot took 0.642716646194458 seconds
+play in progress-P2 has ball: snapshot took 0.6175844669342041 seconds
+play in progress-P2 has ball: snapshot took 0.42134785652160645 seconds
+play in progress-P2 has ball: snapshot took 0.4900338649749756 seconds
+play in progress-P2 has ball: snapshot took 0.4305858612060547 seconds
+play in progress-P2 has ball: snapshot took 0.4234452247619629 seconds
+play in progress-P2 has ball: snapshot took 0.5329954624176025 seconds
+play in progress-P2 has ball: snapshot took 0.43652963638305664 seconds
+play in progress-P2 has ball: snapshot took 0.43039917945861816 seconds
+play in progress-P2 has ball: snapshot took 0.43355441093444824 seconds
+play in progress-P2 has ball: snapshot took 0.4622783660888672 seconds
+play in progress-P2 has ball: snapshot took 0.44026851654052734 seconds
+play in progress-P2 has ball: snapshot took 0.44661402702331543 seconds
+play in progress-P2 has ball: snapshot took 0.4409480094909668 seconds
+play in progress-P2 has ball: snapshot took 0.4422299861907959 seconds
+play in progress-P2 has ball: snapshot took 0.4372375011444092 seconds
+play in progress-P2 has ball: snapshot took 0.4858894348144531 seconds
+select play-P1 has ball: snapshot took 0.6406445503234863 seconds
+select play-P1 has ball: snapshot took 0.5630950927734375 seconds
+select play-P1 has ball: snapshot took 0.5669596195220947 seconds
+select play-P1 has ball: snapshot took 0.547874927520752 seconds
+select play-P1 has ball: snapshot took 0.5647356510162354 seconds
+select play-P1 has ball: snapshot took 0.5709335803985596 seconds
+select play-P1 has ball: snapshot took 0.5574402809143066 seconds
+select play-P1 has ball: snapshot took 0.5554583072662354 seconds
+select play-P1 has ball: snapshot took 0.5558295249938965 seconds
+select play-P1 has ball: snapshot took 0.5651042461395264 seconds
+select play-P1 has ball: snapshot took 0.5536370277404785 seconds
+select play-P1 has ball: snapshot took 0.5389838218688965 seconds
+select play-P1 has ball: snapshot took 0.6189422607421875 seconds
+select play-P1 has ball: snapshot took 0.5541901588439941 seconds
+select play-P1 has ball: snapshot took 0.5695159435272217 seconds
+select play-P1 has ball: snapshot took 0.6092808246612549 seconds
+select play-P1 has ball: snapshot took 0.5541942119598389 seconds
+select play-P1 has ball: snapshot took 0.5576252937316895 seconds
+select play-P1 has ball: snapshot took 0.5656270980834961 seconds
+select play-P1 has ball: snapshot took 0.5396988391876221 seconds
+play in progress-P1 has ball: snapshot took 0.4111015796661377 seconds
+play in progress-P1 has ball: snapshot took 0.41995716094970703 seconds
+play in progress-P1 has ball: snapshot took 0.4384641647338867 seconds
+play in progress-P1 has ball: snapshot took 0.43999671936035156 seconds
+play in progress-P1 has ball: snapshot took 0.42986464500427246 seconds
+play in progress-P1 has ball: snapshot took 0.6038784980773926 seconds
+play in progress-P1 has ball: snapshot took 0.43172693252563477 seconds
+play in progress-P1 has ball: snapshot took 0.47468042373657227 seconds
+play in progress-P1 has ball: snapshot took 0.4622941017150879 seconds
+play in progress-P1 has ball: snapshot took 0.45941686630249023 seconds
+play in progress-P1 has ball: snapshot took 0.44400835037231445 seconds
+play in progress-P1 has ball: snapshot took 0.4844198226928711 seconds
+play in progress-P1 has ball: snapshot took 0.518068790435791 seconds
+play in progress-P1 has ball: snapshot took 0.5595111846923828 seconds
+play in progress-P1 has ball: snapshot took 0.5923213958740234 seconds
+play in progress-P1 has ball: snapshot took 0.5689642429351807 seconds
+play in progress-P1 has ball: snapshot took 0.47789478302001953 seconds
+play in progress-P1 has ball: snapshot took 0.42568087577819824 seconds
+play in progress-P1 has ball: snapshot took 0.438399076461792 seconds
+play in progress-P1 has ball: snapshot took 0.4266500473022461 seconds
+play in progress-P1 has ball: snapshot took 0.5411069393157959 seconds
+play in progress-P1 has ball: snapshot took 0.5005872249603271 seconds
+play in progress-P1 has ball: snapshot took 0.4484093189239502 seconds
+play in progress-P1 has ball: snapshot took 0.4257645606994629 seconds
+play in progress-P1 has ball: snapshot took 0.4235968589782715 seconds
+play in progress-P1 has ball: snapshot took 0.6076977252960205 seconds
+play in progress-P1 has ball: snapshot took 0.41811585426330566 seconds
+play in progress-P1 has ball: snapshot took 0.41311144828796387 seconds

@@ -1,0 +1,372 @@
+starting game: snapshot took 0.0 seconds
+select play: snapshot took 0.3268156051635742 seconds
+select play: snapshot took 0.2586956024169922 seconds
+select play: snapshot took 0.2423090934753418 seconds
+select play: snapshot took 0.25157666206359863 seconds
+select play: snapshot took 0.24897122383117676 seconds
+select play: snapshot took 0.2777729034423828 seconds
+select play: snapshot took 0.24802780151367188 seconds
+select play: snapshot took 0.25995564460754395 seconds
+select play: snapshot took 0.2692396640777588 seconds
+select play: snapshot took 0.25228166580200195 seconds
+select play: snapshot took 0.2556416988372803 seconds
+select play: snapshot took 0.24453949928283691 seconds
+select play: snapshot took 0.25188779830932617 seconds
+select play: snapshot took 0.2623116970062256 seconds
+select play: snapshot took 0.24370789527893066 seconds
+select play: snapshot took 0.27470827102661133 seconds
+select play: snapshot took 0.2601284980773926 seconds
+select play: snapshot took 0.25884199142456055 seconds
+select play: snapshot took 0.27381443977355957 seconds
+select play: snapshot took 0.2550990581512451 seconds
+select play: snapshot took 0.24282026290893555 seconds
+select play: snapshot took 0.250652551651001 seconds
+select play: snapshot took 0.2851521968841553 seconds
+select play: snapshot took 0.26727914810180664 seconds
+select play: snapshot took 0.28208017349243164 seconds
+select play: snapshot took 0.2545480728149414 seconds
+select play: snapshot took 0.2784264087677002 seconds
+select play: snapshot took 0.26009559631347656 seconds
+select play: snapshot took 0.24497127532958984 seconds
+select play: snapshot took 0.29291534423828125 seconds
+select play: snapshot took 0.2620973587036133 seconds
+select play: snapshot took 0.26892542839050293 seconds
+select play: snapshot took 0.27712535858154297 seconds
+select play: snapshot took 0.25864267349243164 seconds
+select play: snapshot took 0.2754063606262207 seconds
+select play: snapshot took 0.2585430145263672 seconds
+select play: snapshot took 0.24352145195007324 seconds
+select play: snapshot took 0.2506577968597412 seconds
+select play: snapshot took 0.25901031494140625 seconds
+select play: snapshot took 0.25105857849121094 seconds
+select play: snapshot took 0.2834892272949219 seconds
+select play: snapshot took 0.23854756355285645 seconds
+select play: snapshot took 0.2552039623260498 seconds
+select play: snapshot took 0.2461080551147461 seconds
+select play: snapshot took 0.24262237548828125 seconds
+select play: snapshot took 0.2551274299621582 seconds
+select play: snapshot took 0.27268004417419434 seconds
+select play: snapshot took 0.25449514389038086 seconds
+select play: snapshot took 0.2557332515716553 seconds
+select play: snapshot took 0.25612759590148926 seconds
+select play: snapshot took 0.24452590942382812 seconds
+select play: snapshot took 0.254544734954834 seconds
+select play: snapshot took 0.2548396587371826 seconds
+select play: snapshot took 0.25613975524902344 seconds
+select play: snapshot took 0.25548458099365234 seconds
+select play: snapshot took 0.2578747272491455 seconds
+select play: snapshot took 0.2556607723236084 seconds
+select play: snapshot took 0.251983642578125 seconds
+select play: snapshot took 0.25794029235839844 seconds
+select play: snapshot took 0.25589609146118164 seconds
+select play: snapshot took 0.2632319927215576 seconds
+select play: snapshot took 0.26195502281188965 seconds
+select play: snapshot took 0.27181529998779297 seconds
+select play: snapshot took 0.2909891605377197 seconds
+select play: snapshot took 0.2697718143463135 seconds
+select play: snapshot took 0.2463834285736084 seconds
+select play: snapshot took 0.25963544845581055 seconds
+select play: snapshot took 0.25910091400146484 seconds
+select play: snapshot took 0.25158119201660156 seconds
+select play: snapshot took 0.2515697479248047 seconds
+select play: snapshot took 0.27300238609313965 seconds
+select play: snapshot took 0.26528239250183105 seconds
+select play: snapshot took 0.26141357421875 seconds
+select play: snapshot took 0.280501127243042 seconds
+select play: snapshot took 0.26079654693603516 seconds
+play in progress: snapshot took 1.2118580341339111 seconds
+play in progress: snapshot took 2.7067313194274902 seconds
+play in progress: snapshot took 1.2108280658721924 seconds
+play in progress: snapshot took 1.3092448711395264 seconds
+play in progress: snapshot took 1.3953416347503662 seconds
+play in progress: snapshot took 1.1930480003356934 seconds
+play in progress: snapshot took 1.3123128414154053 seconds
+play in progress: snapshot took 2.0600085258483887 seconds
+play in progress: snapshot took 2.3580446243286133 seconds
+play in progress: snapshot took 2.0197410583496094 seconds
+play in progress: snapshot took 1.9988245964050293 seconds
+play in progress: snapshot took 2.054100275039673 seconds
+play in progress: snapshot took 2.1559946537017822 seconds
+play in progress: snapshot took 2.244861602783203 seconds
+play in progress: snapshot took 2.2769389152526855 seconds
+play in progress: snapshot took 2.112967014312744 seconds
+play in progress: snapshot took 2.1417057514190674 seconds
+play in progress: snapshot took 2.297323703765869 seconds
+play in progress: snapshot took 2.3294527530670166 seconds
+play in progress: snapshot took 2.215825080871582 seconds
+play in progress: snapshot took 1.203019142150879 seconds
+play in progress: snapshot took 2.1867830753326416 seconds
+play in progress: snapshot took 2.1597988605499268 seconds
+play in progress: snapshot took 2.1091463565826416 seconds
+play in progress: snapshot took 2.08992600440979 seconds
+play in progress: snapshot took 2.11011004447937 seconds
+play in progress: snapshot took 2.179995059967041 seconds
+play in progress: snapshot took 2.109811305999756 seconds
+play in progress: snapshot took 2.1501543521881104 seconds
+play in progress: snapshot took 1.569854736328125 seconds
+play in progress: snapshot took 1.6100893020629883 seconds
+play in progress: snapshot took 1.5930213928222656 seconds
+play in progress: snapshot took 1.5889902114868164 seconds
+play in progress: snapshot took 1.5979092121124268 seconds
+play in progress: snapshot took 1.5900092124938965 seconds
+play in progress: snapshot took 1.6196846961975098 seconds
+play in progress: snapshot took 1.6101791858673096 seconds
+play in progress: snapshot took 1.2700915336608887 seconds
+play in progress: snapshot took 1.2301268577575684 seconds
+play in progress: snapshot took 1.2334372997283936 seconds
+play in progress: snapshot took 1.2364938259124756 seconds
+play in progress: snapshot took 1.250086784362793 seconds
+play in progress: snapshot took 1.2796826362609863 seconds
+play in progress: snapshot took 1.2603600025177002 seconds
+play in progress: snapshot took 1.230034351348877 seconds
+play in progress: snapshot took 1.2949907779693604 seconds
+play in progress: snapshot took 1.2645151615142822 seconds
+play in progress: snapshot took 1.2518270015716553 seconds
+play in progress: snapshot took 1.2700834274291992 seconds
+play in progress: snapshot took 1.2400643825531006 seconds
+play in progress: snapshot took 1.2396941184997559 seconds
+play in progress: snapshot took 1.285686731338501 seconds
+play in progress: snapshot took 1.3046424388885498 seconds
+play in progress: snapshot took 1.3298180103302002 seconds
+play in progress: snapshot took 0.270038366317749 seconds
+play in progress: snapshot took 0.9500057697296143 seconds
+play in progress: snapshot took 0.947911262512207 seconds
+play in progress: snapshot took 0.9565176963806152 seconds
+play in progress: snapshot took 0.9039924144744873 seconds
+play in progress: snapshot took 0.979771614074707 seconds
+play in progress: snapshot took 0.9002153873443604 seconds
+play in progress: snapshot took 0.9001188278198242 seconds
+play in progress: snapshot took 0.741408109664917 seconds
+play in progress: snapshot took 1.008469820022583 seconds
+play in progress: snapshot took 1.0224223136901855 seconds
+play in progress: snapshot took 0.8773186206817627 seconds
+play in progress: snapshot took 0.9417617321014404 seconds
+play in progress: snapshot took 0.9386682510375977 seconds
+play in progress: snapshot took 0.9406249523162842 seconds
+play in progress: snapshot took 0.958979606628418 seconds
+play in progress: snapshot took 0.940054178237915 seconds
+play in progress: snapshot took 0.9498269557952881 seconds
+play in progress: snapshot took 1.2754671573638916 seconds
+play in progress: snapshot took 1.3447544574737549 seconds
+play in progress: snapshot took 1.3201735019683838 seconds
+play in progress: snapshot took 1.2497751712799072 seconds
+play in progress: snapshot took 1.3140842914581299 seconds
+play in progress: snapshot took 1.2459523677825928 seconds
+play in progress: snapshot took 1.26936936378479 seconds
+play in progress: snapshot took 1.2845499515533447 seconds
+select play: snapshot took 0.39659714698791504 seconds
+select play: snapshot took 0.37377142906188965 seconds
+select play: snapshot took 0.38408398628234863 seconds
+select play: snapshot took 0.37951135635375977 seconds
+select play: snapshot took 0.37536096572875977 seconds
+select play: snapshot took 0.4059891700744629 seconds
+select play: snapshot took 0.43157243728637695 seconds
+select play: snapshot took 0.42728281021118164 seconds
+select play: snapshot took 0.4388434886932373 seconds
+select play: snapshot took 0.45099711418151855 seconds
+select play: snapshot took 0.4213259220123291 seconds
+select play: snapshot took 0.42908477783203125 seconds
+select play: snapshot took 0.43987536430358887 seconds
+select play: snapshot took 0.44005298614501953 seconds
+select play: snapshot took 0.4195115566253662 seconds
+select play: snapshot took 0.480161190032959 seconds
+select play: snapshot took 0.44022512435913086 seconds
+select play: snapshot took 0.42986035346984863 seconds
+select play: snapshot took 0.43985843658447266 seconds
+select play: snapshot took 0.43021154403686523 seconds
+select play: snapshot took 0.4429018497467041 seconds
+select play: snapshot took 0.4471628665924072 seconds
+select play: snapshot took 0.44328951835632324 seconds
+select play: snapshot took 0.40664196014404297 seconds
+select play: snapshot took 0.41976094245910645 seconds
+select play: snapshot took 0.4202413558959961 seconds
+select play: snapshot took 0.4498326778411865 seconds
+select play: snapshot took 0.4119734764099121 seconds
+select play: snapshot took 0.45906996726989746 seconds
+select play: snapshot took 0.39887332916259766 seconds
+select play: snapshot took 0.4202237129211426 seconds
+select play: snapshot took 0.3901255130767822 seconds
+select play: snapshot took 0.42968034744262695 seconds
+select play: snapshot took 0.43029117584228516 seconds
+select play: snapshot took 0.40970849990844727 seconds
+play in progress: snapshot took 2.090372085571289 seconds
+play in progress: snapshot took 2.139826774597168 seconds
+play in progress: snapshot took 1.9698848724365234 seconds
+play in progress: snapshot took 1.990253210067749 seconds
+play in progress: snapshot took 2.0097272396087646 seconds
+play in progress: snapshot took 1.960235834121704 seconds
+play in progress: snapshot took 2.006385087966919 seconds
+play in progress: snapshot took 1.8433952331542969 seconds
+play in progress: snapshot took 1.839836597442627 seconds
+play in progress: snapshot took 1.8903748989105225 seconds
+play in progress: snapshot took 1.9900031089782715 seconds
+play in progress: snapshot took 2.0084471702575684 seconds
+play in progress: snapshot took 1.9915344715118408 seconds
+play in progress: snapshot took 2.0199315547943115 seconds
+play in progress: snapshot took 1.974437952041626 seconds
+play in progress: snapshot took 2.0156357288360596 seconds
+play in progress: snapshot took 1.9998643398284912 seconds
+play in progress: snapshot took 1.9520468711853027 seconds
+play in progress: snapshot took 1.9555346965789795 seconds
+play in progress: snapshot took 1.9463095664978027 seconds
+play in progress: snapshot took 2.0016586780548096 seconds
+select play: snapshot took 0.26232266426086426 seconds
+select play: snapshot took 0.2502250671386719 seconds
+select play: snapshot took 0.2739298343658447 seconds
+select play: snapshot took 0.23993945121765137 seconds
+select play: snapshot took 0.2895090579986572 seconds
+select play: snapshot took 0.25110912322998047 seconds
+select play: snapshot took 0.2671089172363281 seconds
+select play: snapshot took 0.24805831909179688 seconds
+select play: snapshot took 0.27016377449035645 seconds
+select play: snapshot took 0.23734259605407715 seconds
+select play: snapshot took 0.2469329833984375 seconds
+select play: snapshot took 0.2393338680267334 seconds
+select play: snapshot took 0.2726552486419678 seconds
+select play: snapshot took 0.24214720726013184 seconds
+select play: snapshot took 0.25220799446105957 seconds
+select play: snapshot took 0.24773287773132324 seconds
+select play: snapshot took 0.27812981605529785 seconds
+select play: snapshot took 0.2504615783691406 seconds
+select play: snapshot took 0.2674717903137207 seconds
+select play: snapshot took 0.25322628021240234 seconds
+select play: snapshot took 0.3099832534790039 seconds
+select play: snapshot took 0.24051523208618164 seconds
+select play: snapshot took 0.2795100212097168 seconds
+select play: snapshot took 0.23729705810546875 seconds
+select play: snapshot took 0.27626466751098633 seconds
+select play: snapshot took 0.2527470588684082 seconds
+select play: snapshot took 0.25824880599975586 seconds
+select play: snapshot took 0.24836134910583496 seconds
+select play: snapshot took 0.2696101665496826 seconds
+select play: snapshot took 0.24514007568359375 seconds
+select play: snapshot took 0.28141140937805176 seconds
+select play: snapshot took 0.24466776847839355 seconds
+select play: snapshot took 0.2599518299102783 seconds
+select play: snapshot took 0.24523496627807617 seconds
+select play: snapshot took 0.2488710880279541 seconds
+select play: snapshot took 0.26537370681762695 seconds
+select play: snapshot took 0.23872995376586914 seconds
+select play: snapshot took 0.27094149589538574 seconds
+select play: snapshot took 0.2543308734893799 seconds
+select play: snapshot took 0.2652409076690674 seconds
+select play: snapshot took 0.2452073097229004 seconds
+select play: snapshot took 0.27875590324401855 seconds
+select play: snapshot took 0.2494199275970459 seconds
+select play: snapshot took 0.2486896514892578 seconds
+select play: snapshot took 0.26261425018310547 seconds
+select play: snapshot took 0.25684475898742676 seconds
+play in progress: snapshot took 0.7740483283996582 seconds
+play in progress: snapshot took 0.24598121643066406 seconds
+play in progress: snapshot took 0.23014283180236816 seconds
+play in progress: snapshot took 0.21079659461975098 seconds
+play in progress: snapshot took 0.22046613693237305 seconds
+play in progress: snapshot took 0.22905349731445312 seconds
+play in progress: snapshot took 0.22632384300231934 seconds
+play in progress: snapshot took 0.2291090488433838 seconds
+play in progress: snapshot took 0.2232663631439209 seconds
+play in progress: snapshot took 0.24284887313842773 seconds
+play in progress: snapshot took 0.29279470443725586 seconds
+play in progress: snapshot took 0.2391490936279297 seconds
+play in progress: snapshot took 0.22217535972595215 seconds
+play in progress: snapshot took 0.22837352752685547 seconds
+play in progress: snapshot took 0.24308395385742188 seconds
+play in progress: snapshot took 0.2375493049621582 seconds
+play in progress: snapshot took 0.2657921314239502 seconds
+play in progress: snapshot took 0.21930336952209473 seconds
+play in progress: snapshot took 0.2131335735321045 seconds
+play in progress: snapshot took 0.24523234367370605 seconds
+play in progress: snapshot took 0.21593308448791504 seconds
+play in progress: snapshot took 0.21980977058410645 seconds
+play in progress: snapshot took 0.21734833717346191 seconds
+play in progress: snapshot took 0.2518460750579834 seconds
+play in progress: snapshot took 0.24843811988830566 seconds
+play in progress: snapshot took 0.2129826545715332 seconds
+play in progress: snapshot took 0.23052287101745605 seconds
+play in progress: snapshot took 0.22213363647460938 seconds
+play in progress: snapshot took 0.8119509220123291 seconds
+select play: snapshot took 0.2793452739715576 seconds
+play in progress: snapshot took 0.29027533531188965 seconds
+select play: snapshot took 0.2874736785888672 seconds
+play in progress: snapshot took 0.2570469379425049 seconds
+select play: snapshot took 0.2769758701324463 seconds
+play in progress: snapshot took 0.26294875144958496 seconds
+select play: snapshot took 0.27707409858703613 seconds
+play in progress: snapshot took 0.25151491165161133 seconds
+select play: snapshot took 0.26851630210876465 seconds
+play in progress: snapshot took 0.23795509338378906 seconds
+select play: snapshot took 0.2803056240081787 seconds
+play in progress: snapshot took 0.30039048194885254 seconds
+play in progress: snapshot took 0.2518446445465088 seconds
+play in progress: snapshot took 0.2604541778564453 seconds
+select play: snapshot took 0.26994800567626953 seconds
+play in progress: snapshot took 0.23636913299560547 seconds
+select play: snapshot took 0.31363892555236816 seconds
+play in progress: snapshot took 0.23560714721679688 seconds
+select play: snapshot took 0.2826375961303711 seconds
+play in progress: snapshot took 0.2335374355316162 seconds
+select play: snapshot took 0.27620506286621094 seconds
+play in progress: snapshot took 0.24587488174438477 seconds
+select play: snapshot took 0.28645801544189453 seconds
+play in progress: snapshot took 0.24279356002807617 seconds
+select play: snapshot took 0.29594874382019043 seconds
+play in progress: snapshot took 0.24584698677062988 seconds
+select play: snapshot took 0.28437113761901855 seconds
+play in progress: snapshot took 0.24161791801452637 seconds
+select play: snapshot took 0.28840136528015137 seconds
+play in progress: snapshot took 0.25423359870910645 seconds
+select play: snapshot took 0.27404046058654785 seconds
+play in progress: snapshot took 0.25615668296813965 seconds
+select play: snapshot took 0.28867053985595703 seconds
+play in progress: snapshot took 0.2521674633026123 seconds
+select play: snapshot took 0.29187655448913574 seconds
+play in progress: snapshot took 0.24124693870544434 seconds
+select play: snapshot took 0.2819228172302246 seconds
+play in progress: snapshot took 0.2503058910369873 seconds
+select play: snapshot took 0.28813958168029785 seconds
+play in progress: snapshot took 0.24572467803955078 seconds
+select play: snapshot took 0.3103218078613281 seconds
+select play: snapshot took 0.26154232025146484 seconds
+play in progress: snapshot took 0.24414706230163574 seconds
+play in progress: snapshot took 0.25119590759277344 seconds
+select play: snapshot took 0.2961575984954834 seconds
+play in progress: snapshot took 0.25403809547424316 seconds
+select play: snapshot took 0.27291107177734375 seconds
+select play: snapshot took 0.2754650115966797 seconds
+play in progress: snapshot took 0.2624247074127197 seconds
+play in progress: snapshot took 0.23940443992614746 seconds
+select play: snapshot took 0.2808091640472412 seconds
+select play: snapshot took 0.27672481536865234 seconds
+play in progress: snapshot took 0.2555828094482422 seconds
+play in progress: snapshot took 0.2570474147796631 seconds
+select play: snapshot took 0.2750062942504883 seconds
+play in progress: snapshot took 0.24985814094543457 seconds
+select play: snapshot took 0.281644344329834 seconds
+play in progress: snapshot took 0.24294233322143555 seconds
+select play: snapshot took 0.2920680046081543 seconds
+play in progress: snapshot took 0.2393050193786621 seconds
+select play: snapshot took 0.2829594612121582 seconds
+play in progress: snapshot took 0.27233028411865234 seconds
+select play: snapshot took 0.2689542770385742 seconds
+play in progress: snapshot took 0.24020719528198242 seconds
+select play: snapshot took 0.2828667163848877 seconds
+play in progress: snapshot took 0.2392427921295166 seconds
+select play: snapshot took 0.280383825302124 seconds
+play in progress: snapshot took 0.24915742874145508 seconds
+select play: snapshot took 0.2923152446746826 seconds
+play in progress: snapshot took 0.2646760940551758 seconds
+select play: snapshot took 0.27838873863220215 seconds
+play in progress: snapshot took 0.27664637565612793 seconds
+select play: snapshot took 0.30948805809020996 seconds
+select play: snapshot took 0.32359766960144043 seconds
+select play: snapshot took 0.29976606369018555 seconds
+select play: snapshot took 0.3166077136993408 seconds
+select play: snapshot took 0.31125521659851074 seconds
+select play: snapshot took 0.30467844009399414 seconds
+select play: snapshot took 0.305539608001709 seconds
+select play: snapshot took 0.3104887008666992 seconds
+select play: snapshot took 0.2958197593688965 seconds
+select play: snapshot took 0.30048394203186035 seconds
+select play: snapshot took 0.31442737579345703 seconds
+select play: snapshot took 0.3463160991668701 seconds
+select play: snapshot took 0.2987706661224365 seconds

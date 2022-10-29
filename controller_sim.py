@@ -16,12 +16,19 @@ import time
 import random
 
 
+def tapoff(taps):
+    t=1
+    while t<= taps:
+        pydirectinput.press('x')
+        t= t + 1
+        
 def press_right(t):
     tI=0
     while tI<t:
         pydirectinput.keyDown('right')
-        pydirectinput.press('x')
+        tapoff(1)
         time.sleep(0.2)
+        tapoff(10)
         if random.random() <0.5:
             pydirectinput.keyDown('down')
             pydirectinput.keyUp('down')
@@ -30,22 +37,19 @@ def press_right(t):
             time.sleep(0.2)
             pydirectinput.keyUp('up')
         print("pressed ->")
+        #pydirectinput.keyUp('right')
         tI= tI + 1
         print (tI)
 
 w = WindowMgr()
 w.find_window_wildcard(".*Nestopia*")
 dims = w.dimensions
-w.set_foreground()
-
+try:
+    w.set_foreground()
+except:
+    print("window is already on top")
 print("waiting")
 time.sleep(3)
-press_right(120)
 
-
-
-
-
-
-    
-
+while 1==1:
+    press_right(120)

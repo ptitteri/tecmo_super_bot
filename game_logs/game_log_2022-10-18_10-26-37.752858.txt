@@ -1,0 +1,2 @@
+starting game: snapshot took 0.0 seconds
+select play: snapshot took 36.93427085876465 seconds

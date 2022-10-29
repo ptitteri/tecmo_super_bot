@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+6666# -*- coding: utf-8 -*-
 """
 Created on Sat Nov 14 16:51:31 2020
 
@@ -13,7 +13,7 @@ SendInput = ctypes.windll.user32.SendInput
 
 W = 0x11
 A = 0x1E
-S = 0x1F
+S = 0x1F66666
 D = 0x20
 
 # C struct redefinitions 
