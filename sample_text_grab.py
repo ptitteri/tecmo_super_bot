@@ -12,7 +12,6 @@ import pytesseract
   
 # Mention the installed location of Tesseract-OCR in your system
 #pytesseract.pytesseract.tesseract_cmd = 'System_path_to_tesseract.exe'
-pytesseract.pytesseract.tesseract_cmd = 'C:\\Users\\ptitt\\AppData\\Local\\Programs\\Tesseract-OCR\\tesseract.exe'
 # Read image from which text needs to be extracted
 
   
